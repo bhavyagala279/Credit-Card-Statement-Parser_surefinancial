@@ -147,11 +147,12 @@ This parser works with most major credit card issuers including Chase, American 
 
 ## **Project Structure**
 
-surefinancial/  
-├── app.py                        \# Main application  
+surefinancial/    
+├── Sample CCS             \# Sample Credit Card Statements
+├── Output.pdf             \# Final Results
+├── app.py                 \# Main application  
 ├── README.md              \# Documentation  
-├── Project Description     \# Documentation  
-├── Sample CCS              \# Credit Card Statements
+├── Project Description    \# Documentation
 
 ## **Contributing**
 
